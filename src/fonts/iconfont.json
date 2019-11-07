@@ -1,0 +1,30 @@
+{
+  "id": "1495196",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2254699",
+      "name": "隐藏密码",
+      "font_class": "yincangmima",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "4675540",
+      "name": "显示密码",
+      "font_class": "xianshimima",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "9835115",
+      "name": "显示密码",
+      "font_class": "xianshimima1",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
